@@ -11,10 +11,6 @@ My key interests are in tools for thought, Differential Privacy, Explainable and
 Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI. Let's work together to make the world a safer, smarter, and more responsible place!
 
 
-### Contact Information
-Website: nasante.co <br>
-LinkedIn: nanaaaasante
-
 - 🔭 I’m currently working on compliance website tool.
 - 🌱 I’m currently learning about tools of thought and privacy laws.
 
