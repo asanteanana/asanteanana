@@ -9,8 +9,8 @@ My key interests are in Tools for Thought, AI in UX, Explainable and Responsible
 Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI. Let's work together to make the world a safer, smarter, and more responsible place!
 
 
-- 🔭 I’m currently working on compliance tool.
-- 🌱 I’m currently learning about privacy laws tools for thought and LLMs.
+- 🔭 I’m currently working on a compliance tool.
+- 🌱 I’m currently learning about privacy laws, LLMs and tools for thought.
 - 📫 How to reach me about edtech and cultural + technological intersections.
 
 <!--
