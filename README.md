@@ -1,4 +1,4 @@
-# Hello There!
+# Shalom
 
 I'm Nana Asante, a IT student at Lewis University studying Data Privacy.
 
