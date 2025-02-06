@@ -9,9 +9,9 @@ My key interests are in Tools for Thought, AI in UX, Explainable and Responsible
 Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI. Let's work together to make the world a safer, smarter, and more responsible place.
 
 
-- 🔭 I’m currently working on a compliance tool.
+- 🔭 I’m currently working on a GDPR compliance tool.
 - 🌱 I’m currently learning about privacy laws, LLMs and tools for thought.
-- 📫 How to reach me about edtech, privacy and cultural + technological intersections.
+- 📫 Also reach me about edtech, privacy and cultural + technological intersections.
 
 <!--
 **asanteanana/asanteanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
