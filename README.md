@@ -1,5 +1,5 @@
 
-Shalom. I'm Nana, a IT student at Lewis University studying Data Privacy and CS.
+👋🏽 Shalom. I'm Nana, a IT student at Lewis University studying Data Privacy and CS.
 
 I'm currently interested to creating privacy-conscious AI solutions and ensuring the ethical use of data. My mission is to design robust privacy systems for the greater good of society.
 
