@@ -11,7 +11,6 @@ Please feel free to connect with me if you're interested in discussing privacy i
 
 - 🔭 I’m currently working on a GDPR compliance tool.
 - 🌱 I’m currently learning about privacy laws, LLMs and tools for thought.
-- 📫 You can reach out to me about edtech and cultural + technological intersections.
 
 <!--
 **asanteanana/asanteanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 You can reach out to me about edtech and cultural + technological intersections.
+
 -->
 
