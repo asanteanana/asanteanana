@@ -5,9 +5,7 @@ I'm currently interested to creating privacy-conscious AI solutions and ensuring
 
 My key interests are in Tools for Thought, AI in UX, Explainable and Responsible AI.
 
-
-Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI. Let's work together to make the world a safer, smarter, and more responsible place.
-
+Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI.
 
 - 🔭 I’m currently working on a GDPR compliance tool.
 - 🌱 I’m currently learning about privacy laws, LLMs and tools for thought.
