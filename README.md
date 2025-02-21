@@ -1,6 +1,8 @@
 Hi, I'm Nana. I specialize in privacy engineering, data protection, and compliance—bridging the gap between security and user trust.
 
-I'm currently interested to creating privacy-conscious AI solutions and ensuring the ethical use of data. My mission is to design robust privacy systems for the greater good of society.
+I'm currently interested to creating privacy-conscious AI solutions and ensuring the ethical use of data. 
+
+My mission is to design robust privacy systems for the greater good of society.
 
 I'm particularly interested in AI for UX, as well as Explainable and Responsible AI.
 
