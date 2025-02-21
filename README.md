@@ -6,8 +6,8 @@ I'm particularly interested in AI for UX, as well as Explainable and Responsible
 
 Please feel free to connect with me if you're interested in discussing privacy in the digital realm or exploring the ethical applications of AI.
 
-- 🔭 I’m currently working on a GDPR Compliance Tool.
-- 🌱 I’m currently learning more about privacy laws, LLMs and tools for thought.
+🔭 I’m currently working on a GDPR Compliance Tool.
+🌱 I’m currently learning more about privacy laws, LLMs and tools for thought.
 
 <!--
 **asanteanana/asanteanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
