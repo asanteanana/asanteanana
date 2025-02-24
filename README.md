@@ -1,4 +1,4 @@
-Hi, I'm Nana. I interested in privacy engineering, data protection, and compliance—bridging the gap between security and user trust.
+Hi, I'm Nana. I specialize in privacy engineering, data protection, and compliance—bridging the gap between security and user trust.
 
 My mission is to design robust privacy systems for the greater good of society.
 
