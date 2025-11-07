@@ -4,8 +4,7 @@ My mission is to design robust privacy systems for the greater good of society.
 
 I'm interested in AI for UX, as well as Explainable and Responsible AI.
 
-- 🔭 I’m currently working on a https://www.gdprtoolkit.cc/.
-- 🌱 I’m currently learning more about privacy laws, LLMs, and tools for thought.
+- I’m currently learning more about privacy laws, LLMs, and tools for thought.
 
 <!--
 
