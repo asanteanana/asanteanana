@@ -1,4 +1,4 @@
-privacy, tools of thought, ai
+privacy, tools of thought, AI
 <!--
 
 -->
