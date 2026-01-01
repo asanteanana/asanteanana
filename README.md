@@ -1,4 +1,4 @@
-privacy, tools of thought, AI
+make yourself proud
 <!--
 
 -->
